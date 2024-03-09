@@ -4,10 +4,10 @@ Crypto Dashboard is a web application that provides real-time information about 
 
 ## Screenshots
 
-<img src="https://i.ibb.co/ch26Fbv/image1.png" alt="Dashboard" width="100%">
+<img src="https://i.ibb.co/y4xfY3Y/image1.png" alt="Dashboard" width="100%">
 *Dashboard*
 
-<img src="https://i.ibb.co/vxJb9L9/image2.png" alt="Search" width="100%">
+<img src="https://i.ibb.co/TTbV4jY/image2.png" alt="Search" width="100%">
 *Search*
 
 <img src="https://i.ibb.co/ZWsvBnQ/image3.png" alt="Details" width="100%">
