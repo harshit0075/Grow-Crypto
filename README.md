@@ -2,6 +2,11 @@
 
 Crypto Dashboard is a web application that provides real-time information about cryptocurrencies. Users can search for specific coins, view their details, and sort them based on various criteria.
 
+![Image 1 Description](https://i.ibb.co/ch26Fbv/image1.png)
+![Image 2 Description](https://i.ibb.co/vxJb9L9/image2.png)
+![Image 3 Description](https://i.ibb.co/ZWsvBnQ/image3.png)
+
+
 ## Features
 
 - Search for coins by name
