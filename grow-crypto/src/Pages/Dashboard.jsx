@@ -21,7 +21,7 @@ const CoinTable = ({ coins, onSelectCoin }) => {
           {coins.map((coin) => (
             <TableRow key={coin.id} onClick={() => onSelectCoin(coin)}>
               <TableCell>
-                <img src={coin.image} alt={coin.name} />
+                <img src={coin.image} alt={coin.name} style={{ maxWidth: '50px', maxHeight: '50px' }} />
               </TableCell>
               <TableCell>{coin.name}</TableCell>
               <TableCell>{coin.symbol}</TableCell>
@@ -147,7 +147,7 @@ const Dashboard = () => {
   const currentItems = filteredCoins.slice(indexOfFirstItem, indexOfLastItem);
 
   return (
-    <div>
+    <div style={{ padding: '20px' }}>
       <Navbar
         searchTerm={searchTerm}
         setSearchTerm={setSearchTerm}
