@@ -4,13 +4,19 @@ Crypto Dashboard is a web application that provides real-time information about 
 
 ## Screenshots
 
-<img src="https://i.ibb.co/y4xfY3Y/image1.png" alt="Dashboard" width="500px">
-*Dashboard*
 
-<img src="https://i.ibb.co/TTbV4jY/image2.png" alt="Search" width="50%">
-*Search*
+Dashboard Page![Screenshot (452)](https://github.com/harshit0075/Grow-Crypto/assets/112869167/d03660e2-091d-483f-8521-37cd666fe642)
 
-<img src="https://i.ibb.co/ZWsvBnQ/image3.png" alt="Details" width="50%">
+search-page
+![Screenshot (454)](https://github.com/harshit0075/Grow-Crypto/assets/112869167/dddab32b-a346-423a-963e-44acacd4bd6f)
+
+
+live-currency-page
+![Screenshot (453)](https://github.com/harshit0075/Grow-Crypto/assets/112869167/706ad7ac-3392-4f98-a73a-5260c2a47b79)
+
+
+
+
 *Details*
 
 ## Features
